@@ -1,0 +1,20 @@
+
+C:\Users\maru3\OneDrive - UTN FRMDP\Escritorio\CURSO ANGULAR\miercoles-4-12\mierc-deploy
+├── angular.json
+├── dist
+├── estructura.txt
+├── node_modules
+├── package-lock.json
+├── package.json
+├── public
+├── README.md
+├── src
+├── tsconfig.app.json
+├── tsconfig.json
+└── tsconfig.spec.json
+
+directory: 4 file: 8
+
+
+
+[2K[1G

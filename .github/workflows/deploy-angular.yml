@@ -34,7 +34,7 @@ jobs:
         run: npm ci
 
       - name: Build
-        run: npm run build -- --configuration=production --base-href=/maq-viernes/
+        run: npm run build -- --configuration=production --base-href=/mierc-deploy-rep/
         # Reemplaza [tu-repositorio] con el nombre de tu repositorio
 
       - name: Setup Pages
@@ -43,7 +43,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './dist/maquet-app/browser/'
+          path: './dist/mierc-deploy/browser/'
           # Reemplaza [nombre-de-tu-proyecto] con el nombre real de tu proyecto Angular
 
 deploy:
